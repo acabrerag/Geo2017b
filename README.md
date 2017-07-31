@@ -1,6 +1,6 @@
 ### Información General.
-+ Profesor: Alain Antonio Cabrera Gonzalez
-+ Correo electrónico: acabreraglz@gmail.com
++ Profesor: Alain Antonio Cabrera González
++ Correo electrónico: alain.cabrera@itam.com
 
 ### Canales de Comunicación:
 + Utilizaremos [Slack](https://slack.com/) como medio oficial de comunicación.
@@ -14,15 +14,16 @@
 + Fundamental hacer muchos ejercicios, es la única manera de entender.
 
 ### Evaluación:
-+ Examen Parcial 1 *escrito*:30% (Martes 28 de febrero)
-+ Examen Parcial 2 *oral*: 20% (Martes 25 de abril, sujeta a cambios)
-+ Examen Parcial 3 *tarea*: 30% (por definir)
-+ Examen Final *opción múltiple*: 20% (por definir)
++ Examen Parcial 1: 250% (Martes 12 de septiembre)
++ Examen Parcial 2: 25% (Martes 10 de octubre)
++ Examen Parcial 3: 25% (Martes 14 de noviembre)
++ Examen Final: 20% (por definir, para tener derecho a presentarlo, se debe contar con promedio parcial aprobatorio)
 
 ### Puntos extra:
 + Equivaldrán al 10% sumado directamente a la calificación final, es decir, pueden sacar 11 de calificación. 
 + Se realizarán preguntas junto a los exámenes parciales.
 + La temática de las preguntas será definida en clase.
++ Para tener derecho a los puntos extra se debe contar con un promedio aprobatorio en la materia
 
 ### Reglas generales:
 + No copiar. 
